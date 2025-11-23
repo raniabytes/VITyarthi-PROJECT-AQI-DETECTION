@@ -16,7 +16,7 @@ FEATURES:
 
 3)determines air quality category
 
-4) user friendly CLI interface
+4)user friendly CLI interface
 
 
 TECHNOLOGIES AND TOOL USED:
