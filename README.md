@@ -1,5 +1,5 @@
 ## VITyarthi-PROJECT-AQI-DETECTION
-OVERVIEW:
+## OVERVIEW:
 
 
 The AQI Detection System is a Python-based application designed to calculate the Air Quality Index (AQI) for two major air pollutants: PM2.5 and PM10. It uses official US EPA AQI breakpoints to compute accurate AQI values through linear interpolation.
@@ -8,7 +8,7 @@ An understandable AQI score (0–500)
 A meaningful air quality category (e.g., Good, Moderate, Unhealthy, Hazardous)
 The system is completely interactive and allows users to input PM2.5 and PM10 values. It then processes these inputs, calculates AQI for each pollutant, and determines the overall AQI based on EPA guidelines.
 
-FEATURES:
+## FEATURES:
 
 1)calculate AQI for pm2.5 and pm10
 
@@ -19,7 +19,7 @@ FEATURES:
 4)user friendly CLI interface
 
 
-TECHNOLOGIES AND TOOL USED:
+## TECHNOLOGIES AND TOOL USED:
 
 1)Python programming language 
 
@@ -28,7 +28,7 @@ TECHNOLOGIES AND TOOL USED:
 3)US EPA Air quality standards
 
 
-INSTALLATION :
+## INSTALLATION :
 
 -PYTHON 3.7 OR HIGHER https://www.python.org/downloads/
 
